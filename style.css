@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container-fluid{
+                height: 750px;
+                width: 100%;
+                display: block;
+                background-image: url("https://handluggageonly.co.uk/wp-content/uploads/2015/10/Paris-Restaurants-with-cool-views-7.jpg");
+}
+.container{
+             display: inline-block;
+             height: 400px;
+             width: 400px;
+             margin: 160px 38%;
+             background-color: transparent;
+             border: 5px solid black;
+             border-radius: 10px;
+}
+.Dropdown{
+         display: inline-block;
+         margin: 60px 100px;
+}
+.option{
+        width: 200px;
+        height: 35px;
+        border-radius: 5px;
+}

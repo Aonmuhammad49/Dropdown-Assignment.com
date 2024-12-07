@@ -1,0 +1,240 @@
+[
+  {
+    "CName": "pak",
+    "state": [
+      {
+        "statename": "punjab",
+        "resturant": [
+          {
+            "res_name": "abc",
+            "days": [
+              {
+                "dayname": "friday",
+                "dishes": [
+                  {
+                    "dishesname": "abc"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CName": "india",
+    "state": [
+      {
+        "statename": "delhi",
+        "resturant": [
+          {
+            "res_name": "Tandoor Villa",
+            "days": [
+              {
+                "dayname": "monday",
+                "dishes": [
+                  {
+                    "dishesname": "Butter Chicken"
+                  },
+                  {
+                    "dishesname": "Garlic Naan"
+                  },
+                  {
+                    "dishesname": "Palak Paneer"
+                  }
+                ]
+              },
+              {
+                "dayname": "tuesday",
+                "dishes": [
+                  {
+                    "dishesname": "Aloo Gobi"
+                  },
+                  {
+                    "dishesname": "Chole Bhature"
+                  },
+                  {
+                    "dishesname": "Lassi"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CName": "uk",
+    "state": [
+      {
+        "statename": "london",
+        "resturant": [
+          {
+            "res_name": "The British Grill",
+            "days": [
+              {
+                "dayname": "monday",
+                "dishes": [
+                  {
+                    "dishesname": "Fish and Chips"
+                  },
+                  {
+                    "dishesname": "Bangers and Mash"
+                  },
+                  {
+                    "dishesname": "Shepherd's Pie"
+                  }
+                ]
+              },
+              {
+                "dayname": "tuesday",
+                "dishes": [
+                  {
+                    "dishesname": "Full English Breakfast"
+                  },
+                  {
+                    "dishesname": "Ploughman’s Lunch"
+                  },
+                  {
+                    "dishesname": "Sunday Roast"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CName": "australia",
+    "state": [
+      {
+        "statename": "new south wales",
+        "resturant": [
+          {
+            "res_name": "Aussie BBQ",
+            "days": [
+              {
+                "dayname": "monday",
+                "dishes": [
+                  {
+                    "dishesname": "Barbecue Ribs"
+                  },
+                  {
+                    "dishesname": "Pavlova"
+                  },
+                  {
+                    "dishesname": "Meat Pies"
+                  }
+                ]
+              },
+              {
+                "dayname": "tuesday",
+                "dishes": [
+                  {
+                    "dishesname": "Fish and Chips"
+                  },
+                  {
+                    "dishesname": "Vegemite Toast"
+                  },
+                  {
+                    "dishesname": "Lamingtons"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CName": "japan",
+    "state": [
+      {
+        "statename": "tokyo",
+        "resturant": [
+          {
+            "res_name": "Sushi World",
+            "days": [
+              {
+                "dayname": "monday",
+                "dishes": [
+                  {
+                    "dishesname": "Sushi"
+                  },
+                  {
+                    "dishesname": "Tempura"
+                  },
+                  {
+                    "dishesname": "Miso Soup"
+                  }
+                ]
+              },
+              {
+                "dayname": "tuesday",
+                "dishes": [
+                  {
+                    "dishesname": "Ramen"
+                  },
+                  {
+                    "dishesname": "Sashimi"
+                  },
+                  {
+                    "dishesname": "Tonkatsu"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CName": "turkey",
+    "state": [
+      {
+        "statename": "istanbul",
+        "resturant": [
+          {
+            "res_name": "Sultan's Kitchen",
+            "days": [
+              {
+                "dayname": "monday",
+                "dishes": [
+                  {
+                    "dishesname": "Kebabs"
+                  },
+                  {
+                    "dishesname": "Baklava"
+                  },
+                  {
+                    "dishesname": "Pide"
+                  }
+                ]
+              },
+              {
+                "dayname": "tuesday",
+                "dishes": [
+                  {
+                    "dishesname": "Lahmacun"
+                  },
+                  {
+                    "dishesname": "Meze"
+                  },
+                  {
+                    "dishesname": "Dolma"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
